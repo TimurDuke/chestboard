@@ -1,0 +1,25 @@
+{
+  "name": "chestboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "board": "tsc",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimurDuke/chestboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimurDuke/chestboard/issues"
+  },
+  "homepage": "https://github.com/TimurDuke/chestboard#readme",
+  "dependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^4.6.4"
+  }
+}
