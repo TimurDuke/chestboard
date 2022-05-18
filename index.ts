@@ -6,5 +6,10 @@ for (let i = 1; i <= 4; i++) {
     chestBoard += "  ";
   }
   chestBoard += "\n";
+  for (let k = 1; k <= 4; k++) {
+    chestBoard += "  ";
+    chestBoard += "██";
+  }
+  chestBoard += "\n";
 }
 console.log(chestBoard);
